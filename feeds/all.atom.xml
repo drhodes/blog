@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-08-26T16:02:37-04:00</updated><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-08-27T10:15:10-04:00</updated><entry><title>Setting up a free blog on github</title><link href="https://drhodes.github.io/blog/setting-up-a-free-blog-on-github.html" rel="alternate"></link><published>2022-08-27T10:15:01-04:00</published><updated>2022-08-27T10:15:10-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-27:/blog/setting-up-a-free-blog-on-github.html</id><summary type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
+github. We have to start somewhere, and that means I'm assuming you
+are have access to a bash shell, have python installed and that you
+have a github account with ssh-keys setup, you might want …&lt;/p&gt;</summary><content type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
+github. We have to start somewhere, and that means I'm assuming you
+are have access to a bash shell, have python installed and that you
+have a github account with ssh-keys setup, you might want to test that
+out.&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;&lt;span class="m"&gt;10&lt;/span&gt;:29 $ ssh -T git@github.com
+Hi drhodes! You&lt;span class="err"&gt;&amp;#39;&lt;/span&gt;ve successfully authenticated, but GitHub 
+does not provide shell access.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Yay! If you get an error instead, then you'll have to debug you ssh
+configuration, or set it up from scratch.&lt;/p&gt;
+&lt;p&gt;more to come&lt;/p&gt;</content><category term="how-to"></category></entry><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
 &lt;p&gt;https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb&lt;/p&gt;</content><category term="programming"></category><category term="authentication"></category><category term="web"></category></entry><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><summary type="html">&lt;p&gt;```python&lt;/p&gt;
 &lt;div class="math"&gt;$$ \sqrt{1+x} $$&lt;/div&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
