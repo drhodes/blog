@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas - constraint programming</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/constraint-programming.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-08-22T16:28:52-04:00</updated><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><summary type="html">&lt;p&gt;```python&lt;/p&gt;
-&lt;div class="math"&gt;$$ \sqrt{1+x} $$&lt;/div&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas - constraint programming</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/constraint-programming.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-08-22T16:28:52-04:00</updated><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><summary type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;rational expression&lt;/strong&gt; is any element of the field of fractions of
+the polynomial ring &lt;span class="math"&gt;\(F[X]\)&lt;/span&gt;.&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
@@ -9,14 +10,9 @@
     if (false) {
         align = (screen.width &lt; 768) ? "left" : align;
         indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https …&lt;/script&gt;</summary><content type="html">&lt;p&gt;```python&lt;/p&gt;
-&lt;div class="math"&gt;$$ \sqrt{1+x} $$&lt;/div&gt;
+        linebreak = (screen.width &lt; 768) ? 'true' : linebreak …&lt;/script&gt;</summary><content type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
+&lt;p&gt;A &lt;strong&gt;rational expression&lt;/strong&gt; is any element of the field of fractions of
+the polynomial ring &lt;span class="math"&gt;\(F[X]\)&lt;/span&gt;.&lt;/p&gt;
 &lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
     var align = "center",
         indent = "0em",
