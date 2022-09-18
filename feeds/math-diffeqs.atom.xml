@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas - math diffeqs</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/math-diffeqs.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-09-18T15:35:12-04:00</updated><entry><title>Fractional derviatives</title><link href="https://drhodes.github.io/blog/fractional-derviatives.html" rel="alternate"></link><published>2022-09-18T15:35:06-04:00</published><updated>2022-09-18T15:35:12-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-09-18:/blog/fractional-derviatives.html</id><content type="html">&lt;p&gt;This is the one of best videos I've seen on about fractional
+derivatives.  Maybe there are applications for taylor series style
+approximation.&lt;/p&gt;
+&lt;p&gt;What Lies Between a Function and Its Derivative? (SoME2) | Fractional
+Calculus - YouTube&lt;/p&gt;
+&lt;p&gt;.. youtube:: 2dwQUUDt5Is&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math"></category></entry><entry><title>Presentation order of Prof. Mattuck</title><link href="https://drhodes.github.io/blog/presentation-order-of-prof-mattuck.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/presentation-order-of-prof-mattuck.html</id><summary type="html">&lt;p&gt;Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+https://www.youtube.com/watch?v=tVzaX9u6YAE&lt;/p&gt;
+&lt;p&gt;First a diagram to cement the situation. Clearly label the variables
+and distinguish them, completely squash all false assumptions people
+have brewing in their heads.&lt;/p&gt;
+&lt;p&gt;$$T$$ is temperature, not time. &lt;/p&gt;
+&lt;p&gt;relate back to newton's …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+https://www.youtube.com/watch?v=tVzaX9u6YAE&lt;/p&gt;
+&lt;p&gt;First a diagram to cement the situation. Clearly label the variables
+and distinguish them, completely squash all false assumptions people
+have brewing in their heads.&lt;/p&gt;
+&lt;p&gt;$$T$$ is temperature, not time. &lt;/p&gt;
+&lt;p&gt;relate back to newton's law of cooling&lt;/p&gt;
+&lt;p&gt;The heat flows from the outside to the inside. By convention the flow
+has a direction.&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Workshop vector fields</title><link href="https://drhodes.github.io/blog/workshop-vector-fields.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/workshop-vector-fields.html</id><content type="html"></content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry></feed>

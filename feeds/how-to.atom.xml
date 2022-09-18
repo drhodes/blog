@@ -14,4 +14,7 @@ does not provide shell access.
 
 &lt;p&gt;Yay! If you get an error instead, then you'll have to debug your ssh
 configuration or set it up from scratch.&lt;/p&gt;
-&lt;p&gt;more to come&lt;/p&gt;</content><category term="how-to"></category></entry></feed>
+&lt;ul&gt;
+&lt;li&gt;How to add youtube videos to the blog&lt;/li&gt;
+&lt;li&gt;https://pypi.org/project/pelican-youtube/&lt;/li&gt;
+&lt;/ul&gt;</content><category term="how-to"></category></entry></feed>

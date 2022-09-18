@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-08-27T10:15:10-04:00</updated><entry><title>Setting up a free blog on github</title><link href="https://drhodes.github.io/blog/setting-up-a-free-blog-on-github.html" rel="alternate"></link><published>2022-08-27T10:15:01-04:00</published><updated>2022-08-27T10:15:10-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-27:/blog/setting-up-a-free-blog-on-github.html</id><summary type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
+<feed xmlns="http://www.w3.org/2005/Atom"><title>just some ideas</title><link href="https://drhodes.github.io/blog/" rel="alternate"></link><link href="https://drhodes.github.io/blog/feeds/all.atom.xml" rel="self"></link><id>https://drhodes.github.io/blog/</id><updated>2022-09-18T15:35:12-04:00</updated><entry><title>Fractional derviatives</title><link href="https://drhodes.github.io/blog/fractional-derviatives.html" rel="alternate"></link><published>2022-09-18T15:35:06-04:00</published><updated>2022-09-18T15:35:12-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-09-18:/blog/fractional-derviatives.html</id><content type="html">&lt;p&gt;This is the one of best videos I've seen on about fractional
+derivatives.  Maybe there are applications for taylor series style
+approximation.&lt;/p&gt;
+&lt;p&gt;What Lies Between a Function and Its Derivative? (SoME2) | Fractional
+Calculus - YouTube&lt;/p&gt;
+&lt;p&gt;.. youtube:: 2dwQUUDt5Is&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math"></category></entry><entry><title>Math announcer</title><link href="https://drhodes.github.io/blog/math-announcer.html" rel="alternate"></link><published>2022-09-07T17:45:59-04:00</published><updated>2022-09-07T17:46:05-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-09-07:/blog/math-announcer.html</id><content type="html">&lt;p&gt;It would be great if there was a math expert watching me do math so it
+could tell me that mistakes I make as I make them instead of going
+down long detour of errors.&lt;/p&gt;</content><category term="math edu"></category><category term="edu"></category></entry><entry><title>Measuring the clarity of an exercise</title><link href="https://drhodes.github.io/blog/measuring-the-clarity-of-an-exercise.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/measuring-the-clarity-of-an-exercise.html</id><content type="html">&lt;p&gt;The clarity of an exercise might be determined by checking how the &lt;/p&gt;</content><category term="math edu"></category><category term="edu"></category></entry><entry><title>Presentation order of Prof. Mattuck</title><link href="https://drhodes.github.io/blog/presentation-order-of-prof-mattuck.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/presentation-order-of-prof-mattuck.html</id><summary type="html">&lt;p&gt;Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+https://www.youtube.com/watch?v=tVzaX9u6YAE&lt;/p&gt;
+&lt;p&gt;First a diagram to cement the situation. Clearly label the variables
+and distinguish them, completely squash all false assumptions people
+have brewing in their heads.&lt;/p&gt;
+&lt;p&gt;$$T$$ is temperature, not time. &lt;/p&gt;
+&lt;p&gt;relate back to newton's …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Lec 3 | MIT 18.03 Differential Equations, Spring 2006
+https://www.youtube.com/watch?v=tVzaX9u6YAE&lt;/p&gt;
+&lt;p&gt;First a diagram to cement the situation. Clearly label the variables
+and distinguish them, completely squash all false assumptions people
+have brewing in their heads.&lt;/p&gt;
+&lt;p&gt;$$T$$ is temperature, not time. &lt;/p&gt;
+&lt;p&gt;relate back to newton's law of cooling&lt;/p&gt;
+&lt;p&gt;The heat flows from the outside to the inside. By convention the flow
+has a direction.&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Workshop vector fields</title><link href="https://drhodes.github.io/blog/workshop-vector-fields.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/workshop-vector-fields.html</id><content type="html"></content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Setting up a free blog on github</title><link href="https://drhodes.github.io/blog/setting-up-a-free-blog-on-github.html" rel="alternate"></link><published>2022-08-27T10:15:01-04:00</published><updated>2022-08-27T10:15:10-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-27:/blog/setting-up-a-free-blog-on-github.html</id><summary type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
 github. We have to start somewhere. That means you are using a bash
 shell, have python installed and have a github account with ssh-keys
 configured, you might want to test that out.&lt;/p&gt;
@@ -14,80 +35,11 @@ does not provide shell access.
 
 &lt;p&gt;Yay! If you get an error instead, then you'll have to debug your ssh
 configuration or set it up from scratch.&lt;/p&gt;
-&lt;p&gt;more to come&lt;/p&gt;</content><category term="how-to"></category></entry><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
-&lt;p&gt;https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb&lt;/p&gt;</content><category term="programming"></category><category term="authentication"></category><category term="web"></category></entry><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><summary type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to add youtube videos to the blog&lt;/li&gt;
+&lt;li&gt;https://pypi.org/project/pelican-youtube/&lt;/li&gt;
+&lt;/ul&gt;</content><category term="how-to"></category></entry><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
+&lt;p&gt;https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb&lt;/p&gt;</content><category term="programming"></category><category term="authentication"></category><category term="web"></category></entry><entry><title>setting up zulip chat for openedx course</title><link href="https://drhodes.github.io/blog/setting-up-zulip-chat-for-openedx-course.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/setting-up-zulip-chat-for-openedx-course.html</id><content type="html">&lt;p&gt;We'll follow &lt;a href="https://zulip.readthedocs.io/en/latest/production/install.html"&gt;this tutorial&lt;/a&gt;,
+and install zulip on debian 11.&lt;/p&gt;</content><category term="how-to sysadmin"></category><category term="authentication"></category><category term="openedx"></category></entry><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><content type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;rational expression&lt;/strong&gt; is any element of the field of fractions of
-the polynomial ring &lt;span class="math"&gt;\(F[X]\)&lt;/span&gt;.&lt;/p&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak …&lt;/script&gt;</summary><content type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
-&lt;p&gt;A &lt;strong&gt;rational expression&lt;/strong&gt; is any element of the field of fractions of
-the polynomial ring &lt;span class="math"&gt;\(F[X]\)&lt;/span&gt;.&lt;/p&gt;
-&lt;script type="text/javascript"&gt;if (!document.getElementById('mathjaxscript_pelican_#%@#$@#')) {
-    var align = "center",
-        indent = "0em",
-        linebreak = "false";
-
-    if (false) {
-        align = (screen.width &lt; 768) ? "left" : align;
-        indent = (screen.width &lt; 768) ? "0em" : indent;
-        linebreak = (screen.width &lt; 768) ? 'true' : linebreak;
-    }
-
-    var mathjaxscript = document.createElement('script');
-    mathjaxscript.id = 'mathjaxscript_pelican_#%@#$@#';
-    mathjaxscript.type = 'text/javascript';
-    mathjaxscript.src = 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/latest.js?config=TeX-AMS-MML_HTMLorMML';
-
-    var configscript = document.createElement('script');
-    configscript.type = 'text/x-mathjax-config';
-    configscript[(window.opera ? "innerHTML" : "text")] =
-        "MathJax.Hub.Config({" +
-        "    config: ['MMLorHTML.js']," +
-        "    TeX: { extensions: ['AMSmath.js','AMSsymbols.js','noErrors.js','noUndefined.js'], equationNumbers: { autoNumber: 'none' } }," +
-        "    jax: ['input/TeX','input/MathML','output/HTML-CSS']," +
-        "    extensions: ['tex2jax.js','mml2jax.js','MathMenu.js','MathZoom.js']," +
-        "    displayAlign: '"+ align +"'," +
-        "    displayIndent: '"+ indent +"'," +
-        "    showMathMenu: true," +
-        "    messageStyle: 'normal'," +
-        "    tex2jax: { " +
-        "        inlineMath: [ ['\\\\(','\\\\)'] ], " +
-        "        displayMath: [ ['$$','$$'] ]," +
-        "        processEscapes: true," +
-        "        preview: 'TeX'," +
-        "    }, " +
-        "    'HTML-CSS': { " +
-        "        availableFonts: ['STIX', 'TeX']," +
-        "        preferredFont: 'STIX'," +
-        "        styles: { '.MathJax_Display, .MathJax .mo, .MathJax .mi, .MathJax .mn': {color: 'inherit ! important'} }," +
-        "        linebreaks: { automatic: "+ linebreak +", width: '90% container' }," +
-        "    }, " +
-        "}); " +
-        "if ('default' !== 'default') {" +
-            "MathJax.Hub.Register.StartupHook('HTML-CSS Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax['HTML-CSS'].FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-            "MathJax.Hub.Register.StartupHook('SVG Jax Ready',function () {" +
-                "var VARIANT = MathJax.OutputJax.SVG.FONTDATA.VARIANT;" +
-                "VARIANT['normal'].fonts.unshift('MathJax_default');" +
-                "VARIANT['bold'].fonts.unshift('MathJax_default-bold');" +
-                "VARIANT['italic'].fonts.unshift('MathJax_default-italic');" +
-                "VARIANT['-tex-mathit'].fonts.unshift('MathJax_default-italic');" +
-            "});" +
-        "}";
-
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(configscript);
-    (document.body || document.getElementsByTagName('head')[0]).appendChild(mathjaxscript);
-}
-&lt;/script&gt;</content><category term="constraint programming"></category></entry></feed>
+the polynomial ring $F[X]$.&lt;/p&gt;</content><category term="constraint programming"></category></entry></feed>
