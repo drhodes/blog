@@ -20,26 +20,7 @@ have brewing in their heads.&lt;/p&gt;
 &lt;p&gt;$$T$$ is temperature, not time. &lt;/p&gt;
 &lt;p&gt;relate back to newton's law of cooling&lt;/p&gt;
 &lt;p&gt;The heat flows from the outside to the inside. By convention the flow
-has a direction.&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Workshop vector fields</title><link href="https://drhodes.github.io/blog/workshop-vector-fields.html" rel="alternate"></link><published>2022-08-31T11:39:36-04:00</published><updated>2022-08-31T11:39:40-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-31:/blog/workshop-vector-fields.html</id><content type="html"></content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Setting up a free blog on github</title><link href="https://drhodes.github.io/blog/setting-up-a-free-blog-on-github.html" rel="alternate"></link><published>2022-08-27T10:15:01-04:00</published><updated>2022-08-27T10:15:10-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-27:/blog/setting-up-a-free-blog-on-github.html</id><summary type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
-github. We have to start somewhere. That means you are using a bash
-shell, have python installed and have a github account with ssh-keys
-configured, you might want to test that out.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;10:29 $ ssh …&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;p&gt;In this blog post I'll describe how to set up a free math blog on
-github. We have to start somewhere. That means you are using a bash
-shell, have python installed and have a github account with ssh-keys
-configured, you might want to test that out.&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&lt;code&gt;10:29 $ ssh -T git@github.com
-Hi drhodes! You&amp;#39;ve successfully authenticated, but GitHub 
-does not provide shell access.
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;p&gt;Yay! If you get an error instead, then you'll have to debug your ssh
-configuration or set it up from scratch.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;How to add youtube videos to the blog&lt;/li&gt;
-&lt;li&gt;https://pypi.org/project/pelican-youtube/&lt;/li&gt;
-&lt;/ul&gt;</content><category term="how-to"></category></entry><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
-&lt;p&gt;https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb&lt;/p&gt;</content><category term="programming"></category><category term="authentication"></category><category term="web"></category></entry><entry><title>setting up zulip chat for openedx course</title><link href="https://drhodes.github.io/blog/setting-up-zulip-chat-for-openedx-course.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/setting-up-zulip-chat-for-openedx-course.html</id><content type="html">&lt;p&gt;We'll follow &lt;a href="https://zulip.readthedocs.io/en/latest/production/install.html"&gt;this tutorial&lt;/a&gt;,
-and install zulip on debian 11.&lt;/p&gt;</content><category term="how-to sysadmin"></category><category term="authentication"></category><category term="openedx"></category></entry><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><content type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
+has a direction.&lt;/p&gt;</content><category term="math diffeqs"></category><category term="math lecturing howto"></category></entry><entry><title>Learning oauth2</title><link href="https://drhodes.github.io/blog/learning-oauth2.html" rel="alternate"></link><published>2022-08-26T16:02:30-04:00</published><updated>2022-08-26T16:02:37-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-26:/blog/learning-oauth2.html</id><content type="html">&lt;p&gt;Read this!&lt;/p&gt;
+&lt;p&gt;https://darutk.medium.com/the-simplest-guide-to-oauth-2-0-8c71bd9a15bb&lt;/p&gt;</content><category term="programming"></category><category term="authentication"></category><category term="web"></category></entry><entry><title>Generating a good random rational function</title><link href="https://drhodes.github.io/blog/generating-a-good-random-rational-function.html" rel="alternate"></link><published>2022-08-22T15:49:58-04:00</published><updated>2022-08-22T16:28:52-04:00</updated><author><name>Derek Rhodes</name></author><id>tag:drhodes.github.io,2022-08-22:/blog/generating-a-good-random-rational-function.html</id><content type="html">&lt;p&gt;from wikipedia:&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;rational expression&lt;/strong&gt; is any element of the field of fractions of
 the polynomial ring $F[X]$.&lt;/p&gt;</content><category term="constraint programming"></category></entry></feed>
